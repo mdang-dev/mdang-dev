@@ -8,7 +8,6 @@ Email Me 👉 ✉️ **minhdang25.dev@gmail.com** For Collaboration/Project or A
 - 👯 **I’m looking to collaborate on:** Web applications and microservices-based apps
 - 🤔 **I’m looking for help with:** Designing scalable backend systems and improving code architecture
 - 💬 **Ask me about:** Java projects, frontend development and learning paths for beginner
-- 📫 **How to reach me:** minhdang25.dev@gmail.com
 - ⚡ **Fun fact:** I once built a music streaming site to explore RESTful APIs, JWT authentication, Next.js, and Tailwind CSS - and maybe also because I wanted to listen to music for free 😄🎶
 
 ## 🏆 GitHub Trophies
